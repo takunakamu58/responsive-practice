@@ -65,7 +65,8 @@ display: inline-block;
 
 
 .bigbox4 {
-  margin-left: 25%;
+  width: 600px;
+  margin: 0 auto;
 }
 
 
