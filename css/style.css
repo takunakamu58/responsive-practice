@@ -220,7 +220,6 @@ left: 50%;
 .flex7 {
 display: flex;
 justify-content: center;
-flex-direction: row;
 }
 
 
